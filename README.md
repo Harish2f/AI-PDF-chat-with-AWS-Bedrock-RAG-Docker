@@ -5,9 +5,9 @@
     Anthropic Claude 2.1
 
 ## Introduction
-In this video we will build a CHATBOT like application with AWS Amazon Bedrock, docker, python, Langchain, and Streamlit. We will use Retrieval-Augmented generation concept to provide context to the Large Language model along with user query to generate response from our Knowledgebase.
+A CHATBOT like application with AWS Amazon Bedrock, docker, python, Langchain, and Streamlit using Retrieval-Augmented generation concept to provide context to the Large Language model along with user query to generate response from our Knowledgebase.
 
-In this hands-on tutorial, we will demonstrate the following:
+In this project, we will demonstrate the following:
 - Architecture of the applications
 - Build 2 applications (ADMIN and USER) and create DOCKER images
 
