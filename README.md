@@ -13,7 +13,7 @@ In this hands-on tutorial, we will demonstrate the following:
 
 
 ## Architecture
-![image info](./system_architecture.png)
+[View System Architecture](./system_architecture.drawio.pdf)
 
 ## ADMIN Application:
     - Build Admin Web application where AdminUser can upload the pdf.
